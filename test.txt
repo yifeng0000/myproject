@@ -1,2 +1,5 @@
 this is a test file.
 new line test.
+password
+feaeafteatf
+agefagaeg
